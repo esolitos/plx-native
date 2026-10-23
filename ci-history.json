@@ -1,6 +1,7 @@
-{"updated":"2026-10-23T07:31:39Z",
+{"updated":"2026-10-23T07:32:07Z",
 "ci":[
-{"id":39065695991,"at":"2026-10-17T20:11:59Z","sha":"0b0b22092","title":"Add German (de) as a UI language","pr":820,"conclusion":"success","attempt":1,"jobs":{"which gates apply":4,"host harness tests":173,"armv7 cross-build and artifact assertions":393,"host unit tests (default features)":325,"host unit tests (hostsim)":268,"host lint + type-checks":172,"host python/shell/C gates":151,"host checks (NOT a device gate)":2,"cross-build (armv7) + artifact assertions":2}}
+{"id":39065695991,"at":"2026-10-17T20:11:59Z","sha":"0b0b22092","title":"Add German (de) as a UI language","pr":820,"conclusion":"success","attempt":1,"jobs":{"which gates apply":4,"host harness tests":173,"armv7 cross-build and artifact assertions":393,"host unit tests (default features)":325,"host unit tests (hostsim)":268,"host lint + type-checks":172,"host python/shell/C gates":151,"host checks (NOT a device gate)":2,"cross-build (armv7) + artifact assertions":2}},
+{"id":39917571510,"at":"2026-10-23T07:25:01Z","sha":"b8e82a1ce","title":"Test harness: keep plxnative-stderr.log of a case whose app died, and fail that case (crash_gate)","pr":948,"conclusion":"success","attempt":1,"jobs":{"which gates apply":6,"armv7 cross-build and artifact assertions":392,"host unit tests (hostsim)":318,"host lint + type-checks":179,"host unit tests (default features)":397,"host harness tests":190,"host python/shell/C gates":196,"cross-build (armv7) + artifact assertions":2,"host checks (NOT a device gate)":3}}
 ],
 "sim":[
 {"id":39065696021,"at":"2026-10-17T20:11:59Z","sha":"0b0b22092","title":"Add German (de) as a UI language","pr":820,"conclusion":"success","attempt":1,"jobs":{"macOS simulator build + launch":403,"Windows launcher syntax":19,"Linux simulator build + launch":262,"macOS tests against bundled FFmpeg and ASS":292}},
